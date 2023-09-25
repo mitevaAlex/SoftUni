@@ -1,0 +1,15 @@
+h1 {
+    color: blue;
+}
+
+p {
+color: darkviolet;
+}
+
+li {
+    border: 3px solid yellow;
+}
+
+span {
+    border: 3px dotted darkcyan
+}

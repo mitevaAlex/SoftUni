@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav ul {
+    width: 400px;
+    margin: 0 auto;
+}
+
+nav li {
+    list-style: none;
+    display: inline-block;
+    margin: 20px;
+}
+
+nav li a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #D67472;
+    font-weight: bold;
+}
+
+.main-box{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("SWFIMG_190402_13404986_4O1GE.jpg");
+    
+    background-size: cover;
+    padding: 200px 0;
+    text-align: center;
+    color: rgb(255,255,255);
+}
+
+.main-box h1 {
+    font-size: 40px;
+}
+
+hr {
+    width: 50px;
+    height: 2px;
+    margin: 20px auto;
+    background: #D67472;
+    border: none;
+}
+
+.main-box p {
+    width: 30%;
+    margin: 0 auto;
+}
+
+.page-info{
+    background: #D67472;
+    color: white;
+    text-align: center;
+    padding: 40px 0;
+
+}
+
+.page-info hr{
+    background: white;
+}
+
+.page-info p {
+    width: 30%;
+    margin: 0 auto;
+}
+
+.page-info button{
+    background: white;
+    color: #D67472;
+    padding: 10px;
+    margin-top: 30px;
+    border-radius: 10px;
+    border: none;
+    font-weight: bold;
+}
+
+.design ul {
+    width: 1300px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.design ul li{
+    display: inline-block;
+    list-style: none;
+    text-align: center;
+    width: 20%;
+    
+}
+
+.design li img{
+    width:  50px;
+    height: auto;
+}
