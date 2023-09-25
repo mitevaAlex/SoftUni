@@ -1,0 +1,1 @@
+Scaffold-DbContext -Connection "Server=DESKTOP-NQ0DDAV\SQLEXPRESS;Database=SoftUniCRUD;Trusted_Connection=True;" -Provider Microsoft.EntityFrameworkCore.SqlServer -OutputDir Data/Models
